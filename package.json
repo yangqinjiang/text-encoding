@@ -1,6 +1,6 @@
 {
-  "name": "text-encoding",
-  "author": "Joshua Bell <inexorabletash@gmail.com>",
+  "name": "text-encoding-gb18030",
+  "author": "yangqinjiang <yangqinjiang@qq.com>",
   "contributors": [
     "Joshua Bell <inexorabletash@gmail.com>",
     "Rick Eyre <rick.eyre@outlook.com>",
@@ -10,10 +10,11 @@
     "Author: Francis Avila <francisga@gmail.com>",
     "Michael J. Ryan <tracker1@gmail.com>",
     "Pierre Queinnec <pierre@queinnec.org>",
-    "Zack Weinberg <zackw@panix.com>"
+    "Zack Weinberg <zackw@panix.com>",
+    "yangqinjiang <yangqinjiang@qq.com>"
   ],
-  "version": "0.7.0",
-  "description": "Polyfill for the Encoding Living Standard's API.",
+  "version": "0.7.1",
+  "description": "Polyfill for the Encoding Living Standard's API. Only gb18030",
   "main": "index.js",
   "files": [
     "index.js",
@@ -22,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/inexorabletash/text-encoding.git"
+    "url": "https://github.com/yangqinjiang/text-encoding.git"
   },
   "keywords": [
     "encoding",
@@ -32,6 +33,6 @@
   "bugs": {
     "url": "https://github.com/inexorabletash/text-encoding/issues"
   },
-  "homepage": "https://github.com/inexorabletash/text-encoding",
+  "homepage": "https://github.com/yangqinjiang/text-encoding",
   "license": "(Unlicense OR Apache-2.0)"
 }

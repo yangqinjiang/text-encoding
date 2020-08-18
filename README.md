@@ -1,4 +1,7 @@
-text-encoding
+text-encoding  Only gb18030
+```html
+yangqinjiang@qq.com
+```
 ==============
 
 This is a polyfill for the [Encoding Living

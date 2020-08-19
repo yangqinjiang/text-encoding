@@ -13,7 +13,7 @@
     "Zack Weinberg <zackw@panix.com>",
     "yangqinjiang <yangqinjiang@qq.com>"
   ],
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Polyfill for the Encoding Living Standard's API. Only gb18030",
   "main": "index.js",
   "files": [
